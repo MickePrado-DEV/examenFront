@@ -19,7 +19,6 @@ import { ClientsModule } from './clients/clients.module';
     CompaniesModule,
     ClientsModule,
   ],
-  controllers: [],
-  providers: [],
+ 
 })
 export class AppModule {}
